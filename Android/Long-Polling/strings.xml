@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NPIOT</string>
+    <string name="query">Do you wish to grant access to this person?</string>
+    <string name="yes">Grant Access</string>
+    <string name="no">NO</string>
+    <string name="approved">You have granted access person to this person!</string>
+    <string name="denied">You have denied access person to this person!</string>
+    <string name="confirm">OK</string>
+    <string name="frame">Change</string>
+</resources>

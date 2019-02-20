@@ -18,7 +18,7 @@ We equip the Raspberry Pi with a USB camera and a distance sensor. We maintain a
 - Basic server-side scripting and Android Studio programming.
 - System and Network related issues to decrease latency and get the best out of your setup.
 
-### For full report, refer: [Project Report](https://github.com/csaiprashant/academic_projects/blob/master/Physical%20Authentication%20System%20using%20a%20Raspberry%20Pi%202B/projectreport.pdf)
+### For full report, refer: [Project Report](https://github.com/csaiprashant/smart_security_cam_rpi2b/blob/master/projectreport.pdf)
 
 --------------------------------------------
 
